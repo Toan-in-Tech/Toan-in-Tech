@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Toan Pham
 
-<!--
-**Toan-in-Tech/Toan-in-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate about **Digital IC Design & Verification**  
+🚀 Strong adaptability & eager to learn new technologies  
+💡 Interested in RTL Design, DV, Edge AI, Robotics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Stats](https://github-readme-stats.vercel.app/api?username=Toan-in-Tech&theme=tokyonight)
+
+---
+
+## 🧠 Skills
+
+- Hardware Description: Verilog, SystemVerilog
+- Verification: UVM (learning)
+- Programming: C/C++, Python
+- Scripting: Bash, Tcl
+- Tools: Vivado, ModelSim, EDA Playground
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: [toan-in-tech](https://www.linkedin.com/in/toan-in-tech/)
+- Email: [My email](mailto:toanpnd.tech@gmail.com)
