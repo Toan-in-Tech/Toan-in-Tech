@@ -6,10 +6,6 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Toan-in-Tech&theme=tokyonight)
-
----
-
 ## 🧠 Skills
 
 - Hardware Description: Verilog, SystemVerilog
